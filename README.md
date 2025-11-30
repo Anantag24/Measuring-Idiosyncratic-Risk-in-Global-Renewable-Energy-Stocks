@@ -19,31 +19,6 @@ The study evaluates idiosyncratic risk in renewable-energy companies using multi
 * Produced a final **summary report** consolidating results and insights.
 
 
-📂 **Folder Structure**
-
-
-📁 Measuring-Idiosyncratic-Risk-in-Global-Renewable-Energy-Stocks
-│
-├── data/               # All datasets used in the project (raw + cleaned)
-│   ├── EPU_series.xlsx
-│   ├── VOL_series.xlsx
-│   ├── cleaned_mcap_tickers.xlsx
-│   └── ...etc
-│
-├── report/             # Final report PDF
-│   └── Summary_report.pdf
-│
-├── result/             # All output files generated from analysis
-│   ├── Fama_Macbeth_Results.xlsx
-│   ├── result_fama_french_3_step.xlsx
-│   └── ...
-│
-├── code/               # Jupyter notebook containing full workflow
-│   └── idiosynchratic_code.ipynb
-│
-└── README.md           # Project documentation
-
-
 🧠 **Methodology Overview**
 
 **1️⃣ Data Preparation**
